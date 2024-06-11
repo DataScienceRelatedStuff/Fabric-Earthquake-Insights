@@ -1,1 +1,1 @@
-# Fabric-Exercise-DataEngineering
+# Fabric Exercise EARTHQUAKE INSIGHTS
