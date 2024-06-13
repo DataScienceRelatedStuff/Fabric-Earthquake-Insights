@@ -1,1 +1,1 @@
-# Fabric Exercise EARTHQUAKE INSIGHTS
+This is an auto-created file for 2024 - Earthquake Insights
